@@ -18,3 +18,7 @@ h1 {
 .navigation-bar-nav li {
   margin-right: 10px;
 }
+
+.navigation-bar-nav {
+  display: inline-block;
+}
